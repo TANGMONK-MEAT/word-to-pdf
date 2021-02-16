@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="words2pdf:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/words2pdf_jar</output-path>
+    <root id="archive" name="words2pdf.jar">
+      <element id="module-output" name="words2pdf" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jacob.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
